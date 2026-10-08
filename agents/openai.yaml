@@ -1,0 +1,6 @@
+interface:
+  display_name: "Witcher 3 Save Recovery"
+  short_description: "Diagnose inflated saves and build verified recovery copies"
+  default_prompt: "Use $witcher3-save-recovery to inspect these Witcher 3 saves and create a recovery copy if the supported corruption profile matches."
+policy:
+  allow_implicit_invocation: true

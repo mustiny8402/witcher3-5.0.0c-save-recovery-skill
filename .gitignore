@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.sav
+ManualSave_*.json
+ManualSave_*.png
+work/
+outputs/

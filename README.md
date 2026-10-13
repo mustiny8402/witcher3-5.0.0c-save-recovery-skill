@@ -4,6 +4,22 @@ A Codex skill for diagnosing inflated Witcher 3 Remastered PC saves and creating
 
 위쳐 3 리마스터의 비정상적으로 커진 PC 세이브를 진단하고, 검증된 특정 손상 유형에 대해 원본을 보존한 복구 사본을 만드는 Codex 스킬입니다.
 
+## Status update — PC issue addressed in Patch 5.01 (13 October 2026)
+
+**This repository is primarily retained for historical investigation and exceptional recovery cases.** CD PROJEKT RED released **Patch 5.01 on 8 October 2026**, with a fix for an issue affecting save-file data and measures intended to address saves that may already have been affected. The previously reported PC save-corruption issue is considered resolved in the updated PC version. **Update the PC game before attempting this experimental workaround.**
+
+The patch notes do **not** guarantee that every previously corrupted save can be recovered. If an older save still fails to load after updating, preserve the original files and their matching sidecars before trying any manual recovery. The case reports below document the findings and observations available on 8 October; they have been preserved as historical records rather than rewritten as current patch guidance. **Nintendo Switch 2 patch parity and cross-platform loading of PC saves are separate issues and are not claimed to be resolved here.**
+
+**Official patch notes:** [Patch 5.01 — 8 October 2026](https://steamcommunity.com/app/292030/announcements/)
+
+### 상태 업데이트 — PC 패치 5.01에서 문제 수정 (2026년 10월 13일)
+
+**이 저장소는 이제 주로 기존 손상 사례의 기술 분석 기록과 예외적인 복구 시도를 위한 자료로 유지합니다.** CD PROJEKT RED는 **2026년 10월 8일 패치 5.01**을 배포하면서 세이브 데이터에 영향을 줄 수 있는 문제를 수정하고, 이미 영향을 받은 세이브를 처리하기 위한 조치를 추가했다고 발표했습니다. 앞서 보고한 PC 저장 데이터 손상 문제는 업데이트된 PC 버전에서 해결된 것으로 봅니다. **실험적인 복구 절차를 실행하기 전에 PC 게임을 최신 버전으로 업데이트하세요.**
+
+단, 공식 패치 내용이 **과거에 심하게 손상된 모든 세이브의 복구를 보장하는 것은 아닙니다.** 업데이트 후에도 열리지 않는 파일이 있다면 원본 SAV와 대응 부속 파일을 보존한 뒤 복구를 검토하세요. 아래의 10월 8일 보고서는 당시 조사 결과를 보존한 역사적 기록으로, 현재 패치 상태를 나타내지는 않습니다. **Nintendo Switch 2 패치 적용 여부와 PC에서 작성한 세이브의 크로스플랫폼 로딩 호환성은 별개의 문제이며, 여기서 해결되었다고 주장하지 않습니다.**
+
+**공식 패치 노트:** [2026년 10월 8일 패치 5.01](https://steamcommunity.com/app/292030/announcements/)
+
 ## Install in Codex
 
 Clone or download this repository and copy its skill files into `~/.codex/skills/witcher3-save-recovery/`. `SKILL.md`, `agents/`, `references/` and `scripts/` must be directly inside that folder. On Windows, `~` denotes your user profile directory.

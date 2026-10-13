@@ -10,7 +10,7 @@ A Codex skill for diagnosing inflated Witcher 3 Remastered PC saves and creating
 
 The patch notes do **not** guarantee that every previously corrupted save can be recovered. If an older save still fails to load after updating, preserve the original files and their matching sidecars before trying any manual recovery. The case reports below document the findings and observations available on 8 October; they have been preserved as historical records rather than rewritten as current patch guidance. **Nintendo Switch 2 patch parity and cross-platform loading of PC saves are separate issues and are not claimed to be resolved here.**
 
-**Official patch notes:** [Patch 5.01 — 8 October 2026](https://steamcommunity.com/app/292030/announcements/)
+**Official patch notes:** [Patch 5.01 — 8 October 2026](https://www.thewitcher.com/se/en/news/52085/patch-5-01-for-the-witcher-3-wild-hunt-remastered-is-live)
 
 ### 상태 업데이트 — PC 패치 5.01에서 문제 수정 (2026년 10월 13일)
 
@@ -18,7 +18,7 @@ The patch notes do **not** guarantee that every previously corrupted save can be
 
 단, 공식 패치 내용이 **과거에 심하게 손상된 모든 세이브의 복구를 보장하는 것은 아닙니다.** 업데이트 후에도 열리지 않는 파일이 있다면 원본 SAV와 대응 부속 파일을 보존한 뒤 복구를 검토하세요. 아래의 10월 8일 보고서는 당시 조사 결과를 보존한 역사적 기록으로, 현재 패치 상태를 나타내지는 않습니다. **Nintendo Switch 2 패치 적용 여부와 PC에서 작성한 세이브의 크로스플랫폼 로딩 호환성은 별개의 문제이며, 여기서 해결되었다고 주장하지 않습니다.**
 
-**공식 패치 노트:** [2026년 10월 8일 패치 5.01](https://steamcommunity.com/app/292030/announcements/)
+**공식 패치 노트:** [2026년 10월 8일 패치 5.01](https://www.thewitcher.com/se/en/news/52085/patch-5-01-for-the-witcher-3-wild-hunt-remastered-is-live)
 
 ## Install in Codex
 
